@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://killian-git.github.io/gh-pages/sitemap.xml
+Disallow: /

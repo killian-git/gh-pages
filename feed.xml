@@ -1,23 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>bekindtoworms</title>
-    <link href="https://killian-git.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://killian-git.github.io/gh-pages" />
-    <updated>2021-11-03T11:25:04+00:00</updated>
+    <link href="https://killian-git.github.io/bekindtoworms/feed.xml" rel="self" />
+    <link href="https://killian-git.github.io/bekindtoworms" />
+    <updated>2021-11-06T15:05:11+00:00</updated>
     <author>
         <name>Jessie Scantlebury</name>
     </author>
-    <id>https://killian-git.github.io/gh-pages</id>
+    <id>https://killian-git.github.io/bekindtoworms</id>
 
     <entry>
-        <title>Varius Venenatis Fusce</title>
+        <title>Design 2</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/gh-pages/varius-venenatis-fusce.html"/>
-        <id>https://killian-git.github.io/gh-pages/varius-venenatis-fusce.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/design-2.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/design-2.html</id>
+            <category term="permaculture design"/>
 
-        <updated>2021-11-03T11:25:04+00:00</updated>
+        <updated>2021-11-06T15:03:32+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Links</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/links.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/links.html</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-06T14:53:14+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Bibliography</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/bibliography.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/bibliography.html</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-06T14:35:19+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Glossary of terms</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/glossary-of-terms.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/glossary-of-terms.html</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-06T14:35:26+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Reflection Document</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/reflection-document.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/reflection-document.html</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-06T14:35:10+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Permaculture CV</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/permaculture-cv.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/permaculture-cv.html</id>
+            <category term="supporting document"/>
+
+        <updated>2021-11-06T14:52:06+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/contact.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/contact.html</id>
+
+        <updated>2021-11-06T11:59:32+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Design 1</title>
+        <author>
+            <name>Jessie Scantlebury</name>
+        </author>
+        <link href="https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html</id>
+            <category term="permaculture design"/>
+
+        <updated>2021-11-06T14:34:58+00:00</updated>
             <summary>
                 <![CDATA[
                     Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;
@@ -41,21 +132,23 @@
         </content>
     </entry>
     <entry>
-        <title>Urna Imperdiet Accumsan</title>
+        <title>Homepage</title>
         <author>
             <name>Jessie Scantlebury</name>
         </author>
-        <link href="https://killian-git.github.io/gh-pages/urna-imperdiet-accumsan.html"/>
-        <id>https://killian-git.github.io/gh-pages/urna-imperdiet-accumsan.html</id>
+        <link href="https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html"/>
+        <id>https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html</id>
 
-        <updated>2021-11-03T11:24:00+00:00</updated>
+        <updated>2021-11-06T15:05:11+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg" alt="" />
                     Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg" alt="" />
                 <address>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros</address>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <p><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </p>

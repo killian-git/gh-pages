@@ -2,40 +2,132 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "bekindtoworms",
     "description": "",
-    "home_page_url": "https://killian-git.github.io/gh-pages",
-    "feed_url": "https://killian-git.github.io/gh-pages/feed.json",
+    "home_page_url": "https://killian-git.github.io/bekindtoworms",
+    "feed_url": "https://killian-git.github.io/bekindtoworms/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jessie Scantlebury"
     },
     "items": [
         {
-            "id": "https://killian-git.github.io/gh-pages/varius-venenatis-fusce.html",
-            "url": "https://killian-git.github.io/gh-pages/varius-venenatis-fusce.html",
-            "title": "Varius Venenatis Fusce",
+            "id": "https://killian-git.github.io/bekindtoworms/design-2.html",
+            "url": "https://killian-git.github.io/bekindtoworms/design-2.html",
+            "title": "Design 2",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "permaculture design"
+            ],
+            "date_published": "2021-11-06T14:53:38+00:00",
+            "date_modified": "2021-11-06T15:03:32+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/links.html",
+            "url": "https://killian-git.github.io/bekindtoworms/links.html",
+            "title": "Links",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "supporting document"
+            ],
+            "date_published": "2021-11-06T12:01:12+00:00",
+            "date_modified": "2021-11-06T14:53:14+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/bibliography.html",
+            "url": "https://killian-git.github.io/bekindtoworms/bibliography.html",
+            "title": "Bibliography",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "supporting document"
+            ],
+            "date_published": "2021-11-06T12:00:54+00:00",
+            "date_modified": "2021-11-06T14:35:19+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/glossary-of-terms.html",
+            "url": "https://killian-git.github.io/bekindtoworms/glossary-of-terms.html",
+            "title": "Glossary of terms",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "supporting document"
+            ],
+            "date_published": "2021-11-06T12:00:41+00:00",
+            "date_modified": "2021-11-06T14:35:26+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/reflection-document.html",
+            "url": "https://killian-git.github.io/bekindtoworms/reflection-document.html",
+            "title": "Reflection Document",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "supporting document"
+            ],
+            "date_published": "2021-11-06T12:00:18+00:00",
+            "date_modified": "2021-11-06T14:35:10+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/permaculture-cv.html",
+            "url": "https://killian-git.github.io/bekindtoworms/permaculture-cv.html",
+            "title": "Permaculture CV",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+                   "supporting document"
+            ],
+            "date_published": "2021-11-06T12:00:02+00:00",
+            "date_modified": "2021-11-06T14:52:06+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/contact.html",
+            "url": "https://killian-git.github.io/bekindtoworms/contact.html",
+            "title": "Contact",
+            "author": {
+                "name": "Jessie Scantlebury"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-06T11:59:32+00:00",
+            "date_modified": "2021-11-06T11:59:32+00:00"
+        },
+        {
+            "id": "https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html",
+            "url": "https://killian-git.github.io/bekindtoworms/varius-venenatis-fusce.html",
+            "title": "Design 1",
             "summary": "Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;",
             "content_html": "<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros</p>\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n<p><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </p>\n<ol>\n<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>\n<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>\n<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>\n</ol>\n<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>\n<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>\n<blockquote>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>\n<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus quam nunc, blandit vel, luctus pulvinar.</p>",
             "author": {
                 "name": "Jessie Scantlebury"
             },
             "tags": [
+                   "permaculture design"
             ],
             "date_published": "2021-11-03T11:25:04+00:00",
-            "date_modified": "2021-11-03T11:25:04+00:00"
+            "date_modified": "2021-11-06T14:34:58+00:00"
         },
         {
-            "id": "https://killian-git.github.io/gh-pages/urna-imperdiet-accumsan.html",
-            "url": "https://killian-git.github.io/gh-pages/urna-imperdiet-accumsan.html",
-            "title": "Urna Imperdiet Accumsan",
+            "id": "https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html",
+            "url": "https://killian-git.github.io/bekindtoworms/urna-imperdiet-accumsan.html",
+            "title": "Homepage",
             "summary": "Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis&hellip;",
             "content_html": "<address>Aenean ornare velit lacus varius enim ullamcorper proin aliquam facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor amet nullam sed etiam veroeros</address>\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n<p><strong>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem:</strong> </p>\n<ol>\n<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. </li>\n<li>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. </li>\n<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>\n</ol>\n<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>\n<p>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar.</p>\n<blockquote>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>\n<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus quam nunc, blandit vel, luctus pulvinar.</p>",
+            "image": "https://killian-git.github.io/bekindtoworms/media/posts/1/sun-in-trees-1368734.jpg",
             "author": {
                 "name": "Jessie Scantlebury"
             },
             "tags": [
             ],
             "date_published": "2021-11-03T11:22:30+00:00",
-            "date_modified": "2021-11-03T11:24:00+00:00"
+            "date_modified": "2021-11-06T15:05:11+00:00"
         }
     ]
 }
